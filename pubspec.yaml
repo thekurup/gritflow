@@ -1,0 +1,48 @@
+name: gritflow
+description: "A new Flutter project."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  google_fonts: ^6.1.0
+  flutter_animate: ^4.5.0
+  cupertino_icons: ^1.0.8
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+  path_provider: ^2.1.1
+  intl: ^0.18.1 
+  bloc_test: ^9.1.0  # For testing BLoCs
+  mockito: ^5.3.2    # For creating mocks
+  build_runner: ^2.3.0  # For generating mock classes
+  
+  # State management
+  flutter_bloc: ^8.1.3
+  bloc: ^8.1.2
+  equatable: ^2.0.5
+  
+  # Form validation and utils
+  formz: ^0.6.1
+  shared_preferences: ^2.2.2
+  
+  
+  # HTTP and networking
+  http: ^1.1.0
+  dio: ^5.3.3
+  
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.1
+  hive_generator: ^2.0.1
+  build_runner: ^2.4.4
+
+flutter:
+  uses-material-design: true
+  
+  assets:
+    - assets/images/
