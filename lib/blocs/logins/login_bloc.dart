@@ -19,6 +19,9 @@ import 'package:gritflow/hive/hive_crud.dart';
 // It provides methods to create, read, update and delete user data stored locally.
 
 import 'package:shared_preferences/shared_preferences.dart';
+
+import '../../hive/hive_crud.dart';
+import '../../services/auth_service.dart';
 // ✅ NEW: This imports SharedPreferences which is used to store simple data like the "Remember Me" setting.
 // While Hive is used for more complex data storage, SharedPreferences is simpler for basic preferences.
 
