@@ -278,16 +278,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Support
 
 **Need Help?**
-- 📧 Email: your.email@example.com
+- 📧 Email: arjunkurup24@gmail.com
 - 🐛 Issues: [GitHub Issues](https://github.com/yourusername/gritflow/issues)
 - 💬 Discussions: [GitHub Discussions](https://github.com/yourusername/gritflow/discussions)
 
-**Found a Bug?**
-Please create a detailed issue report including:
-- Device information
-- Steps to reproduce
-- Expected vs actual behavior
-- Screenshots if applicable
+
 
 ---
 
